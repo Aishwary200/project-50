@@ -1,0 +1,25 @@
+.bodyI{
+    font-family:cursive;
+    border: groove;
+    color: red;
+}
+.grid img{
+    border: solid;
+}
+.header{
+font-style:italic;
+font-size: larger;
+}
+.step{
+    border: groove;
+    font-size: 0.6cm;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+.origami{
+    font-size: 0.6cm;
+    width: 310;
+    font-family: fantasy;
+}
